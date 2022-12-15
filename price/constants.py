@@ -1,0 +1,3 @@
+DAP = 30
+DBP = 80
+BASE_DISTANCE = 3
